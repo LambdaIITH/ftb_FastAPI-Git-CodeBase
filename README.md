@@ -62,8 +62,8 @@ To participate in this event, follow these steps:
 
 1. Clone the repository containing the codebase.
     ```bash
-    git clone https://github.com/Monish-Asawa/Fix-the-bug-Question-Lambda-Elan
-    cd Fix-the-bug-Question-Lambda-Elan/Question_1
+    git clone https://github.com/LambdaIITH/ftb_FastAPI-Git-CodeBase
+    cd ftb_FastAPI-Git-CodeBase/Question_1
     ```
 2. Set up a virtual environment. If you're using venv, you can create a virtual environment using the following command:
    ```bash
