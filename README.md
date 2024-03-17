@@ -129,4 +129,7 @@ To participate in this event, follow these steps:
 Good luck, and Happy debugging👍🏻 !
 
 # Hints: 
-1. Tom is importing A in B from C also importing A in C from B. Can you see it? Is this possible? This is the __main__ part for first bug. 
+1. Tom is importing A in B from C also importing A in C from B. Can you see it? Is this possible? This is the __main__ part for first bug.
+2. Thoroughly test all the APIs.
+3. There might be an inherent defect in the models/schemas itself.
+4. (Misc Bug): Why is the formatter not running?
