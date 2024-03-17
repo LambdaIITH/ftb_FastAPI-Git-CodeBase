@@ -127,3 +127,6 @@ To participate in this event, follow these steps:
 1. Tom Holland tried to use black which is a formatter for python code as a hook that runs before every commit. He followed some tutorial found online and copied exactly, but he couldn't set it up properly. Can you help him with that?
 
 Good luck, and Happy debugging👍🏻 !
+
+# Hints: 
+1. Tom is importing A in B from C also importing A in C from B. Can you see it? Is this possible? This is the __main__ part for first bug. 
