@@ -8,7 +8,7 @@ In this question you are given a backend application codebase with several bugs.
 
 ### Storyline
 
-Tom, a beginner developer, attempted to create an application allowing users to post questions and answers. However, he watched some youtube tutorials without fully grasping the concepts, resulting in several bugs that he couldn't resolve on his own. Seeking assistance, he turned to you for help.
+Tom Holland, a beginner developer, attempted to create an application allowing users to post questions and answers. However, he watched some youtube tutorials without fully grasping the concepts, resulting in several bugs that he couldn't resolve on his own. Seeking assistance, he turned to you for help.
 
 Now he is counting on you for fixing these bugs!
 
@@ -124,6 +124,6 @@ To participate in this event, follow these steps:
 5. Once you're confident in your changes, submit your corrected code.
 
 ### Misc bugs:
-1. Tom tried to use black which is a formatter for python code as a hook that runs before every commit. He followed some tutorial found online and copied exactly, but he couldn't set it up properly. Can you help him with that?
+1. Tom Holland tried to use black which is a formatter for python code as a hook that runs before every commit. He followed some tutorial found online and copied exactly, but he couldn't set it up properly. Can you help him with that?
 
-Good luck, and happy debugging!
+Good luck, and Happy debugging👍🏻 !
